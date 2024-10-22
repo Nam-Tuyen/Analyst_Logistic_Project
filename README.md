@@ -22,13 +22,25 @@ Chuyển đổi dữ liệu: Các cột ngày/tháng được chuyển đổi sa
 Mục tiêu: Xác định tỷ lệ đóng góp của mỗi danh mục sản phẩm vào tổng doanh số.
 Biểu đồ: Một biểu đồ thanh ngang cho thấy tỷ lệ lũy kế của các danh mục sản phẩm, với các danh mục được xếp hạng theo doanh số từ cao đến thấp.
 
+![image](https://github.com/user-attachments/assets/e38f3bc7-5054-497b-86b7-6ecb6b21be77)
+
+
 **5. Phân tích độ co dãn của cầu (Price Elasticity of Demand - PED)**
 Mục tiêu: Tính PED để đánh giá sự thay đổi về lượng bán khi giá sản phẩm thay đổi.
 Kết quả: Tìm ra các sản phẩm có sự thay đổi lớn nhất về PED. Biểu đồ thanh cho thấy top 3 sản phẩm có sự biến động đáng kể về PED.
 
+![image](https://github.com/user-attachments/assets/231862d0-a961-4859-a71f-530981013739)
+
+
 **6. Phân tích tỷ lệ giao hàng trễ**
 Mục tiêu: Đánh giá tỷ lệ giao hàng trễ theo khu vực và phương thức giao hàng.
 Kết quả: Biểu đồ nhiệt thể hiện tỷ lệ giao hàng trễ theo khu vực và phương thức giao hàng, cho thấy sự phân bố rõ rệt giữa các khu vực.
+
+![image](https://github.com/user-attachments/assets/46581f90-1072-4c7e-b753-845fac0d3b51)
+
+![image](https://github.com/user-attachments/assets/b00ee3cb-f43d-4b35-95c2-a5fcdb2b08d3)
+
+
 
 **7. Mô hình hồi quy Logistic để phân tích các yếu tố ảnh hưởng đến việc trễ giao hàng**
 Mục tiêu: Sử dụng Logistic Regression để phân tích các yếu tố ảnh hưởng đến rủi ro giao hàng trễ.
@@ -36,10 +48,10 @@ Kết quả: Xác định được các biến quan trọng nhất ảnh hưởn
 - Khu vực đặt hàng (Order Region),
 - Số lượng sản phẩm (Order Item Quantity),
 - Phương thức giao hàng (Shipping Mode).
-Đánh giá mô hình: Độ chính xác mô hình đạt được là 73%, với bảng ma trận nhầm lẫn và báo cáo phân loại cho các chỉ số như Precision và Recall.
+Đánh giá mô hình: Độ chính xác mô hình đạt được là 69,6%, với bảng ma trận nhầm lẫn và báo cáo phân loại cho các chỉ số như Precision và Recall.
 
-**8. Xử lý dữ liệu ngoại lai**
-Isolation Forest: Được sử dụng để phát hiện và loại bỏ dữ liệu ngoại lai, giúp cải thiện độ chính xác của mô hình.
-
-**9. Kết quả trực quan hóa**
+**8. Kết quả trực quan hóa**
 Các biểu đồ: Một số biểu đồ thanh, biểu đồ nhiệt và biểu đồ phân phối giúp minh họa trực quan các kết quả phân tích.
+
+![image](https://github.com/user-attachments/assets/944f7343-d6f6-4f77-9083-05da6796a96f)
+
