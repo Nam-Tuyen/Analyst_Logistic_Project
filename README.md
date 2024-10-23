@@ -18,11 +18,11 @@ Loại bỏ các cột không cần thiết: Một số cột như thông tin c�
 Kiểm tra dữ liệu null và trùng lặp: Không có giá trị null và không có dòng trùng lặp.
 Chuyển đổi dữ liệu: Các cột ngày/tháng được chuyển đổi sang định dạng ngày hợp lệ.
 
-**4. Tính toán tỷ lệ sản phẩm trong doanh số**
+**4. Tính toán tỷ lệ phần trăm tích lũy của tổng doanh thu đóng góp của từng loại sản phẩm**
 Mục tiêu: Xác định tỷ lệ đóng góp của mỗi danh mục sản phẩm vào tổng doanh số.
 Biểu đồ: Một biểu đồ thanh ngang cho thấy tỷ lệ lũy kế của các danh mục sản phẩm, với các danh mục được xếp hạng theo doanh số từ cao đến thấp.
 
-![image](https://github.com/user-attachments/assets/e38f3bc7-5054-497b-86b7-6ecb6b21be77)
+![image](https://github.com/user-attachments/assets/a24aa61f-fb2e-4149-994e-23cbaba7e66b)
 
 
 **5. Phân tích độ co dãn của cầu (Price Elasticity of Demand - PED)**
