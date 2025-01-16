@@ -58,9 +58,3 @@ Kết quả: Xác định được các biến quan trọng nhất ảnh hưởn
 - Phương thức giao hàng (Shipping Mode).
 
 Đánh giá mô hình: Độ chính xác mô hình đạt được là 69,6%, với bảng ma trận và báo cáo phân loại cho các chỉ số như Precision và Recall.
-
-**8. Kết quả trực quan hóa**
-Các biểu đồ: Một số biểu đồ thanh, biểu đồ nhiệt và biểu đồ phân phối giúp minh họa trực quan các kết quả phân tích.
-
-![image](https://github.com/user-attachments/assets/944f7343-d6f6-4f77-9083-05da6796a96f)
-
